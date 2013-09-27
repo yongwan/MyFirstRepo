@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hi there");
             Console.WriteLine("Feature A Started");
+            Console.WriteLine("Feature A End");
             Console.WriteLine("Bye there");
             Console.ReadLine();
         }
